@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="Downloads/110125_istockphoto-1892806761-2048x2048.jpg"  />
+<img align="right" height="150" src="/Downloads/110125_istockphoto-1892806761-2048x2048.jpg"  />
 
 ###
 
