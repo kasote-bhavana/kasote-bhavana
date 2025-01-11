@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.syncfusion.com/blogs/wp-content/uploads/2018/08/DynamicAvatar_Github_bab262e3.png"  />
+<img align="right" height="150" src="Downloads/110125_istockphoto-1892806761-2048x2048.jpg"  />
 
 ###
 
